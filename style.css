@@ -6,7 +6,8 @@ h1 {
 
 p {
   text-align: center;
-  font-family: 'Emblema One', cursive;
+  font-family: 'Emblema One', cursive; 
+  font-color:white;
 }
 body {
   background-image: url("https://images.unsplash.com/photo-1532469342119-c1ac6eb66912?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
